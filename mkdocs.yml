@@ -1,0 +1,14 @@
+site_name: 江苏鑫锐速送餐饮服务管理有限公司
+
+pages:
+  - 哈尔滨:
+      - 202106:
+        - 新人薪资: '1.md'
+        - 老人薪资: '哈尔滨.md'
+  - 大庆: 'test.md'
+  - 长春: 'test.md'
+  - 齐齐哈尔: 'test.md'
+
+
+markdown_extensions:
+  - toc:
